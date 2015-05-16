@@ -1,5 +1,4 @@
-#Overall: Script allows for saving larger data sets as matrices 
-#and calculating the inverse of the stored item
+#Overall: Script allows for saving larger data sets as matrices and calculating the inverse of the stored item
 #Function 1: can cach a matrix object to save computing time
 #Function 2: can compute the inverse of the cached matrix
 
